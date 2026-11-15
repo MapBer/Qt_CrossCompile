@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qml">
+    <file alias="Dashboard.qml">view/qml/Dashboard.qml</file>
+    <file alias="Gauge.qml">view/qml/Gauge.qml</file>
+    <file alias="TurnArrow.qml">view/qml/TurnArrow.qml</file>
+    <file alias="Telltale.qml">view/qml/Telltale.qml</file>
+    <file alias="DashboardButton.qml">view/qml/DashboardButton.qml</file>
+    <file alias="DashboardSlider.qml">view/qml/DashboardSlider.qml</file>
+  </qresource>
+</RCC>
